@@ -35,5 +35,3 @@ This project is licensed under the [MIT License](LICENSE).
 * chackra-ui
 * https://rawg.io/ `for game DB api`
 * vite
----
-make with ~~lust~~ love 💖 by @sameerkali
